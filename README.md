@@ -28,7 +28,7 @@ Original links and text preserved:
 
 ##Usage
 
-After building, simply copy "Today Scripts.app" wherever you'd like to store it, then open it. In Notification Center, you will see "1 New" appear on the edit button, and you may use that to add Today Scripts to your Today View in order to begin using it.
+After building, simply copy "Today Scripts.app" wherever you'd like to store it, then open it. In Notification Center, you will see "1 New" appear on the edit button, and you may use that to add Today Scripts to your Today View in order to begin using it. Use tab to move cursor between text fields.
 
 To begin editing your list of scripts, click the "Info" symbol in the title of the widget.
 
